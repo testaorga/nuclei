@@ -1,9 +1,6 @@
 codecov:
   disable_default_path_fixes: yes
 
-fixes:
-  - "github.com/testaorga/nuclei/v2/::github.com/testaorga/nuclei"
-
 coverage:
   range: 15..65
   round: up
